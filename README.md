@@ -18,4 +18,6 @@ The following are the challenge deliverables:
 The presentation used data based on New York City in order to present a plan to expand to Des Moines, Iowa.  Based on the Tableau dashboard it can be determined whether to expand to Des Moines, and how much bike utilization is expected.  Before creating the Tableau dashboard I was required to convert data in [jupyter notebook](https://github.com/Jahill17/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb).
 
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/jonathan.hill8424/viz/CitBikeBikesharingPorposal/CitiBikeProposal)
-![This is an image](https://public.tableau.com/app/profile/jonathan.hill8424/viz/CitBikeBikesharingPorposal/CitiBikeProposal)
+
+
+![This is an image]()
