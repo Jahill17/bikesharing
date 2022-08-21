@@ -19,7 +19,6 @@ The presentation used data based on New York City in order to present a plan to 
 
 My findings show that most users are subscribers and of those users most are males who use the bikes between the hours of 4-5pm on Thursdays and Fridays.  In 2020 New York City had an approx population of 8.38M, resulting in 2.34M users in the month of August.  In 2020 Des Moines, IA had an approx population of 215k, although less heavily concentrated it could be expected that Des Moines, IA could have up to 60k users in the same month.
 
-Additional analysis I would perform before providing a recommendation would be showing the average rate per ride, maintenance cost per ride, and where individuals were commuting to (were the bikes parked outside of known residential areas, industrial area, business district, etc.).
 
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/jonathan.hill8424/viz/CitBikeBikesharingPorposal/CitiBikeProposal)
 
@@ -30,3 +29,6 @@ Additional analysis I would perform before providing a recommendation would be s
 - Checkout Times by Gender: This reiterates most users are male and use the service for less than one hour.
 - User Type Breakout: This shows most users are subscribers of the service and not single customers.
 - August Peak Hours: This shows most users utilize the service between 5-7pm and 8-9am.  This could infer most users in NYC are using it to commute to and from work.
+
+Additional analysis I would perform before providing a recommendation would be showing the average rate per ride, maintenance cost per ride, and where individuals were commuting to (were the bikes parked outside of known residential areas, industrial area, business district, etc.).
+
