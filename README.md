@@ -14,10 +14,12 @@ The following are the challenge deliverables:
   - Pandas / Jupyter Notebook
   - Tableau Public
 
-## Results
+## Summary and Results
 The presentation used data based on New York City in order to present a plan to expand to Des Moines, Iowa.  Based on the Tableau dashboard it can be determined whether to expand to Des Moines, and how much bike utilization is expected.  Before creating the Tableau dashboard I was required to convert data in [jupyter notebook](https://github.com/Jahill17/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb).
 
 My findings show that most users are subscribers and of those users most are males who use the bikes between the hours of 4-5pm on Thursdays and Fridays.  In 2020 New York City had an approx population of 8.38M, resulting in 2.34M users in the month of August.  In 2020 Des Moines, IA had an approx population of 215k, although less heavily concentrated it could be expected that Des Moines, IA could have up to 60k users in the same month.
+
+Additional analysis I would perform before providing a recommendation would be showing the average rate per ride, maintenance cost per ride, and where individuals were commuting to (were the bikes parked outside of known residential areas, industrial area, business district, etc.).
 
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/jonathan.hill8424/viz/CitBikeBikesharingPorposal/CitiBikeProposal)
 
