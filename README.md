@@ -23,3 +23,8 @@ My findings show that most users are subscribers and of those users most are mal
 
 
 ![This is an image](BikesharingTableauDashboard_Summary.png)
+
+- User Trips by Gender by Weekday: This shows most users are male and utilize the service mostly on Thursdays and Fridays.
+- Checkout Times by Gender: This reiterates most users are male and use the service for less than one hour.
+- User Type Breakout: This shows most users are subscribers of the service and not single customers.
+- August Peak Hours: This shows most users utilize the service between 5-7pm and 8-9am.  This could infer most users in NYC are using it to commute to and from work.
